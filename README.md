@@ -204,7 +204,4 @@ future_improvements:
   - Integration with LLM for smarter dialogue
 
 author:
-  name: Rohan Nanekarents using \textbf{PETG 3D printing} and integrated BLDC propulsion systems.
-\end{itemize}
-
-\end{document}
+  name: Rohan Nanekar
